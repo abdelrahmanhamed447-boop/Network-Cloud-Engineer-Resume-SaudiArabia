@@ -2,46 +2,45 @@
 
 ### Network Engineer | CCNP Enterprise | Azure Network Engineer | Azure Administrator
 
-I'm a **Network Engineer** focused on **Enterprise Networking, Microsoft Azure, Windows Server, Identity Management, and Network Automation**.
+Network Engineer focused on **Enterprise Networking, Microsoft Azure, Windows Server, Identity Management, and Network Automation**.
 
-I have hands-on experience through professional work, practical labs, and technical projects covering **Routing & Switching, Azure Networking, Microsoft Entra ID, Active Directory, Azure Governance, and Python-based network automation**.
-
-📍 **Makkah / Jeddah, Kingdom of Saudi Arabia**
+I have hands-on experience through professional work, practical labs, and projects covering **Routing & Switching, Azure Networking, Microsoft Entra ID, Active Directory, Azure Governance, and Python-based network automation**.
 
 ---
 
 ## 🧑‍💻 About Me
 
-* 🌐 **Network Engineer** specialized in Enterprise Networking
+* 🌐 Network Engineer specialized in **Enterprise Networking**
 * ☁️ Focused on **Microsoft Azure & Cloud Networking**
 * 🔀 Strong knowledge of **Routing & Switching**
 * 🖥️ Hands-on experience with **Windows Server & Active Directory**
 * 🔐 Experience with **Microsoft Entra ID & Identity Synchronization**
 * 🐍 Python fundamentals for **Network Automation & Scripting**
 * 🛠️ Interested in **Network Engineering, Cloud Engineering & Infrastructure**
+* 🇸🇦 Based in **Makkah / Jeddah, Kingdom of Saudi Arabia**
 * 🎖️ Completed Military Service
-* 🇸🇦 Open to **Network & Cloud Engineering opportunities in Saudi Arabia**
 
 ---
 
-## 🏆 Professional Certifications
+## 🏆 Certifications
 
-### 🌐 Cisco
+### 🌐 Cisco Certifications
 
 * [Cisco Certified Network Professional (CCNP) Enterprise — Combined Certification (ENCOR + ENARSI)](https://github.com/abdelrahmanhamed447-boop/Certifications/blob/main/Cisco%20Certifications/Cisco%20Certified%20Network%20Professional%20Enterprise%20certificate.pdf)
+
 * [Cisco Certified Specialist — Enterprise Core (ENCOR 350-401)](https://github.com/abdelrahmanhamed447-boop/Certifications/blob/main/Cisco%20Certifications/Cisco%20Certified%20Specialist%20-%20Enterprise%20Core%20certificate.pdf)
+
 * [Cisco Certified Specialist — Enterprise Advanced Routing (ENARSI 300-410)](https://github.com/abdelrahmanhamed447-boop/Certifications/blob/main/Cisco%20Certifications/Cisco%20Certified%20Specialist%20-%20Enterprise%20Advanced%20Routing%20certificate.pdf)
 
-### ☁️ Microsoft
+### ☁️ Microsoft Certifications
 
 * [Microsoft Certified: Azure Network Engineer Associate (AZ-700)](https://github.com/abdelrahmanhamed447-boop/Certifications/blob/main/Microsoft%20Certifications/Microsoft%20Certified%20-%20Azure%20Network%20Engineer%20Associate%20%28AZ-700%29.pdf)
-* [Microsoft Certified: Azure Administrator Associate (AZ-104)](https://github.com/abdelrahmanhamed447-boop/Certifications/blob/main/Microsoft%20Certifications/Microsoft%20Certified%20-%20Azure%20Administrator%20Associate%20%28AZ-104%29.pdf)
 
-📂 [View All Certifications](https://github.com/abdelrahmanhamed447-boop/Certifications)
+* [Microsoft Certified: Azure Administrator Associate (AZ-104)](https://github.com/abdelrahmanhamed447-boop/Certifications/blob/main/Microsoft%20Certifications/Microsoft%20Certified%20-%20Azure%20Administrator%20Associate%20%28AZ-104%29.pdf)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 🔹 Microsoft Entra Identity, Synchronization & Azure Governance Lab
 
@@ -62,7 +61,7 @@ I have hands-on experience through professional work, practical labs, and techni
   * Subnets
   * Network Security Groups (NSG)
 * Deployed and configured Windows Server Virtual Machines
-* Configured private/public IP addressing
+* Configured private and public IP addressing
 * Configured **IIS Web Server**
 * Configured **Azure Load Balancer**
 * Implemented backend pools, HTTP health probes, and load-balancing rules
@@ -82,13 +81,13 @@ I have hands-on experience through professional work, practical labs, and techni
 
 ### 🔹 Network Path & OSPF Cost Simulator
 
-**Python Project**
+**Technology: Python**
 
 * Developed a Python-based network path simulator using **Dijkstra's Algorithm**
 * Simulated network topologies and link-state routing scenarios
 * Modeled **OSPF path selection**
 * Analyzed routing behavior and path selection
-* Applied Python scripting for network path optimization
+* Applied Python scripting to support network path optimization
 
 ### 🔹 Smart Museum System
 
@@ -106,9 +105,8 @@ I have hands-on experience through professional work, practical labs, and techni
 
 ## 🛠️ Technical Skills
 
-### 🌐 Networking
+### 🌐 Routing & Switching
 
-* Routing & Switching
 * OSPF
 * EIGRP
 * BGP
@@ -138,7 +136,7 @@ I have hands-on experience through professional work, practical labs, and techni
 * Azure Resource Management
 * Azure Networking
 
-### 🔐 Identity & Microsoft Entra
+### 🔐 Microsoft Entra ID & Identity
 
 * Microsoft Entra ID
 * Microsoft Entra Connect Sync
@@ -158,7 +156,7 @@ I have hands-on experience through professional work, practical labs, and techni
 * Allowed VM Size SKU Policy
 * Policy Assignment & Testing
 
-### 🖥️ Windows Server
+### 🖥️ Windows Server & System Administration
 
 * Windows Server 2016 / 2019 / 2022 / 2025
 * Active Directory (AD)
@@ -177,22 +175,42 @@ I have hands-on experience through professional work, practical labs, and techni
 
 ---
 
+## 📚 Udemy Certificates
+
+* [AZ-700: Azure Network Engineer Associate — Certificate of Completion](https://github.com/abdelrahmanhamed447-boop/Certifications/blob/main/Udemy%20Certificates/AZ-700%20Azure%20Network%20Engineer%20Associate%20%20Full%20Course%20%2BLabs.pdf)
+
+* [Microsoft Azure Administrator (AZ-104) — Certificate of Completion](https://github.com/abdelrahmanhamed447-boop/Certifications/blob/main/Udemy%20Certificates/Certificate%20of%20completion%20for%20AZ-104%20-%20Microsoft%20Azure%20Administrator%202026.pdf)
+
+* [Azure Fundamentals (AZ-900) — Certificate of Completion](https://github.com/abdelrahmanhamed447-boop/Certifications/blob/main/Udemy%20Certificates/Certificate%20of%20completion%20for%20AZ-900%20-%20Microsoft%20Azure%20Fundamentals%202026.pdf)
+
+* [Microsoft Windows Server Administration 2025 — Certificate of Completion](https://github.com/abdelrahmanhamed447-boop/Certifications/blob/main/Udemy%20Certificates/Microsoft%20Windows%20Server%20Administration%20Certificate.pdf)
+
+---
+
+## 📖 Training & Attendance
+
+* [Microsoft Azure Administrator (AZ-104) — Certificate of Attendance — 80 Hours](https://github.com/abdelrahmanhamed447-boop/Certifications/blob/main/Training%20%26%20Attendance/-%20AZ-104%20Certificate%20of%20Attendance_20260817_212612_%D9%A0%D9%A0%D9%A0%D9%A0.pdf)
+
+* [Microsoft Windows Server Administration — Certificate of Attendance — 100 Hours](https://github.com/abdelrahmanhamed447-boop/Certifications/blob/main/Training%20%26%20Attendance/Microsoft%20Windows%20Server%20Administration%20Certificate.pdf)
+
+---
+
 ## 💼 Professional Experience
 
 ### Network Engineer
 
 **Hurghada Border Guard Intelligence Office — Egyptian Army**
-*May 2022 – May 2024 | Hurghada, Egypt*
+*May 2022 – May 2024*
 
 * Maintained and monitored network infrastructure supporting critical operational systems
-* Performed network troubleshooting to identify, diagnose, and resolve connectivity and infrastructure issues
-* Maintained network availability and stable operations in a high-demand operational environment
+* Performed network troubleshooting to identify, diagnose, and resolve connectivity issues
+* Maintained network availability and stable operations
 * Collaborated with team members to troubleshoot network issues and maintain reliable connectivity
 
 ### Safety Engineer
 
 **Enoia Utilities**
-*June 2024 – December 2025 | Aswan, Egypt*
+*June 2024 – December 2025*
 
 Non-networking role involving operational process review, safety and quality control procedures, inspections, and compliance activities.
 
@@ -208,34 +226,6 @@ Non-networking role involving operational process review, safety and quality con
 * Graduation Project: **Smart Museum**
 * Graduation Project Grade: **A+**
 * Overall Grade: **Good**
-
----
-
-## 📚 Courses & Training
-
-### Microsoft Azure
-
-* [AZ-700: Azure Network Engineer Associate — Certificate of Completion](https://github.com/abdelrahmanhamed447-boop/Certifications/blob/main/Udemy%20Certificates/AZ-700%20Azure%20Network%20Engineer%20Associate%20%20Full%20Course%20%2BLabs.pdf)
-* [Microsoft Azure Administrator (AZ-104) — Certificate of Completion](https://github.com/abdelrahmanhamed447-boop/Certifications/blob/main/Udemy%20Certificates/Certificate%20of%20completion%20for%20AZ-104%20-%20Microsoft%20Azure%20Administrator%202026.pdf)
-* [Azure Fundamentals (AZ-900) — Certificate of Completion](https://github.com/abdelrahmanhamed447-boop/Certifications/blob/main/Udemy%20Certificates/Certificate%20of%20completion%20for%20AZ-900%20-%20Microsoft%20Azure%20Fundamentals%202026.pdf)
-
-### Windows Server & Python
-
-* [Microsoft Windows Server Administration 2025 — Certificate of Completion](https://github.com/abdelrahmanhamed447-boop/Certifications/blob/main/Udemy%20Certificates/Microsoft%20Windows%20Server%20Administration%20Certificate.pdf)
-* Python Fundamentals — Certificate of Completion (Codezilla)
-
-### Cisco Training
-
-* CCNP Enterprise ENARSI Training
-* CCNP Enterprise ENCOR Training
-* CCNA Training
-
----
-
-## 📖 Training & Attendance
-
-* [Microsoft Azure Administrator (AZ-104) — Certificate of Attendance — 80 Hours](https://github.com/abdelrahmanhamed447-boop/Certifications/blob/main/Training%20%26%20Attendance/-%20AZ-104%20Certificate%20of%20Attendance_20260817_212612_%D9%A0%D9%A0%D9%A0%D9%A0.pdf)
-* [Microsoft Windows Server Administration — Certificate of Attendance — 100 Hours](https://github.com/abdelrahmanhamed447-boop/Certifications/blob/main/Training%20%26%20Attendance/Microsoft%20Windows%20Server%20Administration%20Certificate.pdf)
 
 ---
 
@@ -255,19 +245,21 @@ Non-networking role involving operational process review, safety and quality con
 
 ---
 
-## 📫 Contact
+## 📫 Connect With Me
 
-📧 **Email:** [abdelrahmanhamed447@gmail.com](mailto:abdelrahmanhamed447@gmail.com)
+📧 **Email:**
+[abdelrahmanhamed447@gmail.com](mailto:abdelrahmanhamed447@gmail.com)
 
-📱 **Saudi Arabia:** +966 56 785 6133
+📱 **Saudi Arabia:**
++966 56 785 6133
 
 💼 **LinkedIn:**
-https://www.linkedin.com/in/abdelrahman-hamed-b51a583a9
+https://www.linkedin.com/in/abdelrahman-hamed-b51a583a9/
 
 🐙 **GitHub:**
 https://github.com/abdelrahmanhamed447-boop
 
-📜 **Certifications:**
+📜 **Certifications Repository:**
 https://github.com/abdelrahmanhamed447-boop/Certifications
 
 ---
