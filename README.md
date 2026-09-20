@@ -2,9 +2,9 @@
 
 ### Network Engineer | CCNP Enterprise | Azure Network Engineer | Azure Administrator
 
-Network Engineer focused on **Enterprise Networking, Microsoft Azure, Windows Server, Identity Management, and Network Automation**.
+Network Engineer focused on **Enterprise Networking, Microsoft Azure, Windows Server, Identity Management, Microsoft Intune, and Network Automation**.
 
-I have hands-on experience through professional work, practical labs, and projects covering **Routing & Switching, Azure Networking, Microsoft Entra ID, Active Directory, Azure Governance, and Python-based network automation**.
+I have hands-on experience through professional work, practical labs, and projects covering **Routing & Switching, Azure Networking, Microsoft Entra ID, Active Directory, Azure Governance, Endpoint Management, and Python-based network automation**.
 
 ---
 
@@ -15,6 +15,7 @@ I have hands-on experience through professional work, practical labs, and projec
 * 🔀 Strong knowledge of **Routing & Switching**
 * 🖥️ Hands-on experience with **Windows Server & Active Directory**
 * 🔐 Experience with **Microsoft Entra ID & Identity Synchronization**
+* 📱 Hands-on experience with **Microsoft Intune & Endpoint Management**
 * 🐍 Python fundamentals for **Network Automation & Scripting**
 * 🛠️ Interested in **Network Engineering, Cloud Engineering & Infrastructure**
 * 🇸🇦 Based in **Makkah / Jeddah, Kingdom of Saudi Arabia**
@@ -30,9 +31,11 @@ I have hands-on experience through professional work, practical labs, and projec
 
 * [Cisco Certified Specialist — Enterprise Core (ENCOR 350-401)](https://github.com/abdelrahmanhamed447-boop/Certifications/blob/main/Cisco%20Certifications/Cisco%20Certified%20Specialist%20-%20Enterprise%20Core%20certificate.pdf)
 
-* [Cisco Certified Specialist — Enterprise Advanced Routing (ENARSI 300-410)](https://github.com/abdelrahmanhamed447-boop/Certifications/blob/main/Cisco%20Certifications/Cisco%20Certified%20Specialist%20-%20Enterprise%20Advanced%20Routing%20certificate.pdf)
+* [Cisco Certified Specialist — Enterprise Advanced Infrastructure (ENARSI 300-410)](https://github.com/abdelrahmanhamed447-boop/Certifications/blob/main/Cisco%20Certifications/Cisco%20Certified%20Specialist%20-%20Enterprise%20Advanced%20Infrastructure.pdf)
 
 ### ☁️ Microsoft Certifications
+
+* [Microsoft 365 Certified: Endpoint Administrator Associate (MD-102)](https://github.com/abdelrahmanhamed447-boop/Certifications/blob/main/Microsoft%20Certifications/Microsoft%20Endpoint%20Administrator%20Associate%20%28%20MD-102%20%29%20.pdf)
 
 * [Microsoft Certified: Azure Network Engineer Associate (AZ-700)](https://github.com/abdelrahmanhamed447-boop/Certifications/blob/main/Microsoft%20Certifications/Microsoft%20Certified%20-%20Azure%20Network%20Engineer%20Associate%20%28AZ-700%29.pdf)
 
@@ -41,6 +44,14 @@ I have hands-on experience through professional work, practical labs, and projec
 ---
 
 ## 🚀 Projects
+
+### 🔹 Microsoft Intune Endpoint Management, Security & Remote Support Lab
+
+* Configured **Microsoft Intune** and **Microsoft Entra ID** for centralized Windows and Android device enrollment, management, and monitoring
+* Implemented enrollment restrictions, device limits, Scope Tags, compliance policies, configuration policies, and application deployment
+* Integrated **Android Enterprise** and **Managed Google Play** for centralized Android device and application management
+* Implemented endpoint security and compliance controls including **BitLocker, Windows Firewall, Microsoft Defender, TPM, Antivirus, and Real-Time Protection**
+* Configured and tested **Remote Help / Remote Assistance** and remote device management for endpoint support and troubleshooting
 
 ### 🔹 Microsoft Entra Identity, Synchronization & Azure Governance Lab
 
@@ -55,7 +66,6 @@ I have hands-on experience through professional work, practical labs, and projec
 ### 🔹 Azure Enterprise Network Lab
 
 * Designed and deployed Azure network infrastructure using:
-
   * Resource Groups
   * Virtual Networks (VNet)
   * Subnets
@@ -72,7 +82,6 @@ I have hands-on experience through professional work, practical labs, and projec
 
 * Designed and implemented an Active Directory environment using **Windows Server 2025**
 * Configured:
-
   * Domain Controller
   * DNS
   * Organizational Units (OUs)
@@ -95,7 +104,6 @@ I have hands-on experience through professional work, practical labs, and projec
 
 * Contributed to an IoT-based museum monitoring system
 * Designed and integrated:
-
   * Metal Detector
   * Flame Detector
   * Infrared (IR) Sensor
@@ -135,6 +143,20 @@ I have hands-on experience through professional work, practical labs, and projec
 * VNet Peering — Regional & Global
 * Azure Resource Management
 * Azure Networking
+
+### 📱 Microsoft Intune & Endpoint Management
+
+* Microsoft Intune
+* Windows & Android Device Enrollment
+* Enrollment Restrictions
+* Scope Tags
+* Compliance Policies
+* Device Configuration
+* Application Deployment
+* Endpoint Security
+* BitLocker Management
+* Microsoft Defender
+* Remote Help
 
 ### 🔐 Microsoft Entra ID & Identity
 
@@ -177,21 +199,25 @@ I have hands-on experience through professional work, practical labs, and projec
 
 ## 📚 Udemy Certificates
 
-* [AZ-700: Azure Network Engineer Associate — Certificate of Completion](https://github.com/abdelrahmanhamed447-boop/Certifications/blob/main/Udemy%20Certificates/AZ-700%20Azure%20Network%20Engineer%20Associate%20%20Full%20Course%20%2BLabs.pdf)
+* [Microsoft 365 Endpoint Administrator (MD-102) — Certificate of Completion](https://github.com/abdelrahmanhamed447-boop/Certifications/blob/main/Udemy%20Certificates/MD-102%20-%20Microsoft%20365%20Endpoint%20Administrator%20%28Intune%29%20-%20Udemy.pdf)
 
-* [Microsoft Azure Administrator (AZ-104) — Certificate of Completion](https://github.com/abdelrahmanhamed447-boop/Certifications/blob/main/Udemy%20Certificates/Certificate%20of%20completion%20for%20AZ-104%20-%20Microsoft%20Azure%20Administrator%202026.pdf)
+* [AZ-700: Azure Network Engineer Associate — Certificate of Completion](https://github.com/abdelrahmanhamed447-boop/Certifications/blob/main/Udemy%20Certificates/AZ-700%20-%20Azure%20Network%20Engineer%20Associate%20-%20Full%20Course%20%2B%20Labs%20-%20Udemy.pdf)
 
-* [Azure Fundamentals (AZ-900) — Certificate of Completion](https://github.com/abdelrahmanhamed447-boop/Certifications/blob/main/Udemy%20Certificates/Certificate%20of%20completion%20for%20AZ-900%20-%20Microsoft%20Azure%20Fundamentals%202026.pdf)
+* [Microsoft Azure Administrator (AZ-104) — Certificate of Completion](https://github.com/abdelrahmanhamed447-boop/Certifications/blob/main/Udemy%20Certificates/AZ-104%20-%20Microsoft%20Azure%20Administrator%202026%20-%20Udemy.pdf)
 
-* [Microsoft Windows Server Administration 2025 — Certificate of Completion](https://github.com/abdelrahmanhamed447-boop/Certifications/blob/main/Udemy%20Certificates/Microsoft%20Windows%20Server%20Administration%20Certificate.pdf)
+* [Azure Fundamentals (AZ-900) — Certificate of Completion](https://github.com/abdelrahmanhamed447-boop/Certifications/blob/main/Udemy%20Certificates/AZ-900%20-%20Microsoft%20Azure%20Fundamentals%202026%20-%20Udemy.pdf)
+
+* [Microsoft Windows Server Administration 2025 — Certificate of Completion](https://github.com/abdelrahmanhamed447-boop/Certifications/blob/main/Udemy%20Certificates/Windows%20Server%202025%20Administration%20-%20Udemy.pdf)
 
 ---
 
 ## 📖 Training & Attendance
 
-* [Microsoft Azure Administrator (AZ-104) — Certificate of Attendance — 80 Hours](https://github.com/abdelrahmanhamed447-boop/Certifications/blob/main/Training%20%26%20Attendance/-%20AZ-104%20Certificate%20of%20Attendance_20260817_212612_%D9%A0%D9%A0%D9%A0%D9%A0.pdf)
+* [Microsoft 365 Endpoint Administrator (MD-102) — Certificate of Completion — 16.5 Hours](https://github.com/abdelrahmanhamed447-boop/Certifications/blob/main/Training%20%26%20Attendance/MD-102%20-%20Microsoft%20365%20Endpoint%20Administrator%20%28Intune%29%20-%20Udemy.pdf)
 
-* [Microsoft Windows Server Administration — Certificate of Attendance — 100 Hours](https://github.com/abdelrahmanhamed447-boop/Certifications/blob/main/Training%20%26%20Attendance/Microsoft%20Windows%20Server%20Administration%20Certificate.pdf)
+* [Microsoft Azure Administrator (AZ-104) — Certificate of Attendance](https://github.com/abdelrahmanhamed447-boop/Certifications/blob/main/Training%20%26%20Attendance/AZ-104%20-%20Microsoft%20Azure%20Administrator%20Course%20-%20Certificate%20of%20Attendance.pdf)
+
+* [Microsoft Windows Server Administration — Certificate of Attendance](https://github.com/abdelrahmanhamed447-boop/Certifications/blob/main/Training%20%26%20Attendance/Microsoft%20Windows%20Server%20Administration%20Course%20-%20Certificate%20of%20Attendance.pdf)
 
 ---
 
@@ -199,17 +225,17 @@ I have hands-on experience through professional work, practical labs, and projec
 
 ### Network Engineer
 
-**Hurghada Border Guard Intelligence Office — Egyptian Army**
+**Hurghada Border Guard Intelligence Office — Egyptian Army**  
 *May 2022 – May 2024*
 
-* Maintained and monitored network infrastructure supporting critical operational systems
+* Maintained and monitored network infrastructure supporting operational systems
 * Performed network troubleshooting to identify, diagnose, and resolve connectivity issues
 * Maintained network availability and stable operations
 * Collaborated with team members to troubleshoot network issues and maintain reliable connectivity
 
 ### Safety Engineer
 
-**Enoia Utilities**
+**Enoia Utilities**  
 *June 2024 – December 2025*
 
 Non-networking role involving operational process review, safety and quality control procedures, inspections, and compliance activities.
@@ -220,7 +246,7 @@ Non-networking role involving operational process review, safety and quality con
 
 ### Bachelor of Engineering in Electronics and Communication Engineering
 
-**Modern Academy for Engineering & Technology — Cairo, Egypt**
+**Modern Academy for Engineering & Technology — Cairo, Egypt**  
 *2016 – 2022*
 
 * Graduation Project: **Smart Museum**
@@ -247,19 +273,22 @@ Non-networking role involving operational process review, safety and quality con
 
 ## 📫 Connect With Me
 
-📧 **Email:**
+📧 **Email:**  
 [abdelrahmanhamed447@gmail.com](mailto:abdelrahmanhamed447@gmail.com)
 
-📱 **Saudi Arabia:**
+📱 **Egypt:**  
+01015597758
+
+📱 **Saudi Arabia:**  
 +966 56 785 6133
 
-💼 **LinkedIn:**
+💼 **LinkedIn:**  
 https://www.linkedin.com/in/abdelrahman-hamed-b51a583a9/
 
-🐙 **GitHub:**
+🐙 **GitHub:**  
 https://github.com/abdelrahmanhamed447-boop
 
-📜 **Certifications Repository:**
+📜 **Certifications Repository:**  
 https://github.com/abdelrahmanhamed447-boop/Certifications
 
 ---
