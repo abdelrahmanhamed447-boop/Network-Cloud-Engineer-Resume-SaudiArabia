@@ -281,8 +281,6 @@ The certificates in this section represent **course completion and training**, n
 
 ## 📖 Training & Attendance
 
-* [Microsoft 365 Endpoint Administrator (MD-102) — Certificate of Completion — 16.5 Hours](https://github.com/abdelrahmanhamed447-boop/Certifications/blob/main/Training%20%26%20Attendance/MD-102%20-%20Microsoft%20365%20Endpoint%20Administrator%20%28Intune%29%20-%20Udemy.pdf)
-
 * [Microsoft Azure Administrator (AZ-104) — Certificate of Attendance](https://github.com/abdelrahmanhamed447-boop/Certifications/blob/main/Training%20%26%20Attendance/AZ-104%20-%20Microsoft%20Azure%20Administrator%20Course%20-%20Certificate%20of%20Attendance.pdf)
 
 * [Microsoft Windows Server Administration — Certificate of Attendance](https://github.com/abdelrahmanhamed447-boop/Certifications/blob/main/Training%20%26%20Attendance/Microsoft%20Windows%20Server%20Administration%20Course%20-%20Certificate%20of%20Attendance%20.pdf)
