@@ -2,9 +2,49 @@
 
 ### Network Engineer | CCNP Enterprise | Azure Network Engineer | Azure Administrator
 
-Network Engineer focused on **Enterprise Networking, Microsoft Azure, Windows Server, Identity Management, Microsoft Intune, and Network Automation**.
+Network Engineer focused on **Enterprise Networking, Microsoft Azure, Windows Server, Identity Management, Microsoft Intune, Microsoft 365 Administration, and Network Automation**.
 
-I have hands-on experience through professional work, practical labs, and projects covering **Routing & Switching, Azure Networking, Microsoft Entra ID, Active Directory, Azure Governance, Endpoint Management, and Python-based network automation**.
+I have hands-on experience through professional work, practical labs, and projects covering **Routing & Switching, Azure Networking, Microsoft Entra ID, Active Directory, Azure Governance, Microsoft 365 Administration, Endpoint Management, and Python-based network automation**.
+
+---
+
+## 📑 Table of Contents
+
+- [Curriculum Vitae](#-curriculum-vitae)
+- [About Me](#-about-me)
+- [Certifications](#-certifications)
+  - [Cisco Certifications](#-cisco-certifications)
+  - [Microsoft Certifications](#-microsoft-certifications)
+- [Projects](#-projects)
+  - [Microsoft 365 Administration & Security Lab](#-microsoft-365-administration--security-lab--ms-102)
+  - [Microsoft Intune Endpoint Management, Security & Remote Support Lab](#-microsoft-intune-endpoint-management-security--remote-support-lab)
+  - [Microsoft Entra Identity, Synchronization & Azure Governance Lab](#-microsoft-entra-identity-synchronization--azure-governance-lab)
+  - [Azure Enterprise Network Lab](#-azure-enterprise-network-lab)
+  - [Active Directory Infrastructure Lab](#-active-directory-infrastructure-lab)
+  - [Network Path & OSPF Cost Simulator](#-network-path--ospf-cost-simulator)
+  - [Smart Museum System](#-smart-museum-system)
+- [Technical Skills](#-technical-skills)
+  - [Routing & Switching](#-routing--switching)
+  - [Microsoft Azure](#-microsoft-azure)
+  - [Microsoft 365 Administration](#-microsoft-365-administration)
+  - [Microsoft Intune & Endpoint Management](#-microsoft-intune--endpoint-management)
+  - [Microsoft Entra ID & Identity](#-microsoft-entra-id--identity)
+  - [Azure Governance](#-azure-governance)
+  - [Windows Server & System Administration](#-windows-server--system-administration)
+  - [Network Automation](#-network-automation)
+- [Udemy Certificates](#-udemy-certificates)
+- [Training & Attendance](#-training--attendance)
+- [Professional Experience](#-professional-experience)
+- [Education](#-education)
+- [Soft Skills](#-soft-skills)
+- [Languages](#-languages)
+- [Connect With Me](#-connect-with-me)
+
+---
+
+## 📄 Curriculum Vitae
+
+- [Network Engineer CV — Saudi Arabia](https://github.com/abdelrahmanhamed447-boop/Network-Cloud-Engineer-Resume-SaudiArabia/blob/main/Abdelrahman_Hamed_Network_Cloud_Engineer_CV_Saudi_Arabia%20.pdf)
 
 ---
 
@@ -16,6 +56,7 @@ I have hands-on experience through professional work, practical labs, and projec
 * 🖥️ Hands-on experience with **Windows Server & Active Directory**
 * 🔐 Experience with **Microsoft Entra ID & Identity Synchronization**
 * 📱 Hands-on experience with **Microsoft Intune & Endpoint Management**
+* ☁️ Hands-on experience with **Microsoft 365 Administration**
 * 🐍 Python fundamentals for **Network Automation & Scripting**
 * 🛠️ Interested in **Network Engineering, Cloud Engineering & Infrastructure**
 * 🇸🇦 Based in **Makkah / Jeddah, Kingdom of Saudi Arabia**
@@ -41,9 +82,20 @@ I have hands-on experience through professional work, practical labs, and projec
 
 * [Microsoft Certified: Azure Administrator Associate (AZ-104)](https://github.com/abdelrahmanhamed447-boop/Certifications/blob/main/Microsoft%20Certifications/Microsoft%20Certified%20-%20Azure%20Administrator%20Associate%20%28AZ-104%29.pdf)
 
+> **Note:** MS-102 is included under Udemy course completion certificates and is not listed here as an official Microsoft certification.
+
 ---
 
 ## 🚀 Projects
+
+### 🔹 Microsoft 365 Administration & Security Lab | MS-102
+
+* Administered **Microsoft 365 users, licenses, administrative units, roles, groups, and password management**
+* Deployed **Microsoft 365 Apps** using the Office Customization Tool and configured installation, update, and licensing settings
+* Configured **Exchange Online resources, Microsoft Teams, and SharePoint Online**
+* Configured Microsoft Entra **registered, joined, and hybrid joined devices**
+* Configured **Microsoft Defender security policies and Attack Simulation Training**
+* Configured **Microsoft Purview compliance, retention, and Data Loss Prevention (DLP)**
 
 ### 🔹 Microsoft Intune Endpoint Management, Security & Remote Support Lab
 
@@ -144,6 +196,18 @@ I have hands-on experience through professional work, practical labs, and projec
 * Azure Resource Management
 * Azure Networking
 
+### ☁️ Microsoft 365 Administration
+
+* Microsoft 365 Tenant Administration
+* Microsoft 365 Apps Deployment
+* Exchange Online
+* Microsoft Teams
+* SharePoint Online
+* Microsoft Entra Registered, Joined & Hybrid Joined Devices
+* Microsoft Defender for Office 365
+* Microsoft Purview Compliance & DLP
+* Attack Simulation Training
+
 ### 📱 Microsoft Intune & Endpoint Management
 
 * Microsoft Intune
@@ -199,6 +263,10 @@ I have hands-on experience through professional work, practical labs, and projec
 
 ## 📚 Udemy Certificates
 
+The certificates in this section represent **course completion and training**, not official Microsoft certifications.
+
+* [Microsoft 365 Administrator (MS-102) — Certificate of Completion](https://github.com/abdelrahmanhamed447-boop/Certifications/blob/main/Udemy%20Certificates/Microsoft%20365%20Administrator%20(MS-102)%20.pdf)
+
 * [Microsoft 365 Endpoint Administrator (MD-102) — Certificate of Completion](https://github.com/abdelrahmanhamed447-boop/Certifications/blob/main/Udemy%20Certificates/MD-102%20-%20Microsoft%20365%20Endpoint%20Administrator%20%28Intune%29%20-%20Udemy.pdf)
 
 * [AZ-700: Azure Network Engineer Associate — Certificate of Completion](https://github.com/abdelrahmanhamed447-boop/Certifications/blob/main/Udemy%20Certificates/AZ-700%20-%20Azure%20Network%20Engineer%20Associate%20-%20Full%20Course%20%2B%20Labs%20-%20Udemy.pdf)
@@ -217,7 +285,7 @@ I have hands-on experience through professional work, practical labs, and projec
 
 * [Microsoft Azure Administrator (AZ-104) — Certificate of Attendance](https://github.com/abdelrahmanhamed447-boop/Certifications/blob/main/Training%20%26%20Attendance/AZ-104%20-%20Microsoft%20Azure%20Administrator%20Course%20-%20Certificate%20of%20Attendance.pdf)
 
-* [Microsoft Windows Server Administration — Certificate of Attendance](https://github.com/abdelrahmanhamed447-boop/Certifications/blob/main/Training%20%26%20Attendance/Microsoft%20Windows%20Server%20Administration%20Course%20-%20Certificate%20of%20Attendance.pdf)
+* [Microsoft Windows Server Administration — Certificate of Attendance](https://github.com/abdelrahmanhamed447-boop/Certifications/blob/main/Training%20%26%20Attendance/Microsoft%20Windows%20Server%20Administration%20Course%20-%20Certificate%20of%20Attendance%20.pdf)
 
 ---
 
